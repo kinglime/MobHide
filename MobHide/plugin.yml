@@ -1,0 +1,7 @@
+name: MobHide
+main: io.github.kinglime.mobhide.MobHide
+#YYYY-MM-DD
+version: 20130611
+permissions:
+    mobhide.hidden:
+        description: Hides and protects from all mobs
