@@ -3,7 +3,7 @@ MobHide
 
 I created this plugin because some people on my server enjoyed the challenge of hard mode while others simply wanted to play on peaceful. With this plugin you can allow certain users to be invisible to mobs and take no damage from them. Players of all difficulty preferences can now play in harmony.
 
-* [Dev Bukkit]()
+* [Bukkit Dev](http://dev.bukkit.org/bukkit-mods/mobhide/)
 
 Features
 ------------
