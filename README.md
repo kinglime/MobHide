@@ -14,6 +14,6 @@ Features
 
 Permission Node(s)
 ------------------------
-MobHide uses one single permission node, give the permission to all users you want to be **safe** from mobs.
+MobHide uses one single permission node, give the permission to all users you want to be **safe** from mobs. I personally use and recommend [PermissionsBukkit](http://dev.bukkit.org/bukkit-mods/permbukkit/) as a permissions plugin.
 
 * **`mobhide.hidden`**
